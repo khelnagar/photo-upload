@@ -1,0 +1,869 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ph",
+				"photoDao\tconst"
+			],
+			[
+				"Iph",
+				"IPhotoDao"
+			],
+			[
+				"add",
+				"addPhoto\talias"
+			],
+			[
+				"ge",
+				"getAllPhotos\talias"
+			],
+			[
+				"or",
+				"org_name"
+			],
+			[
+				"uploads",
+				"uploadsArray"
+			],
+			[
+				"up",
+				"uploadsArray"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"js",
+				"jsonParser"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"req",
+				"req"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"com",
+				"compressedFinal"
+			],
+			[
+				"gz",
+				"gzip"
+			],
+			[
+				"er",
+				"err"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"gr",
+				"greet"
+			],
+			[
+				"gre",
+				"greetr1"
+			],
+			[
+				"even",
+				"EventEmitter"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"greet",
+				"greetings"
+			],
+			[
+				"task",
+				"tasks"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"wor",
+				"work_queue"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"cl",
+				"cl1"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"_",
+				"__init__"
+			],
+			[
+				"s",
+				"s1"
+			],
+			[
+				"a",
+				"accumulator"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"buf",
+				"buffersize"
+			],
+			[
+				"buffer",
+				"buffersize"
+			],
+			[
+				"b",
+				"buffer"
+			],
+			[
+				"dic",
+				"dic2"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"sort",
+				"sorted_result"
+			],
+			[
+				"w",
+				"word2"
+			],
+			[
+				"word",
+				"word2"
+			],
+			[
+				"en",
+				"enumerate"
+			],
+			[
+				"num",
+				"num_sum"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"nu",
+				"num_sum"
+			],
+			[
+				"c",
+				"creator"
+			],
+			[
+				"st",
+				"step"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"clas",
+				"class_fields_count"
+			],
+			[
+				"kind",
+				"kind_entries"
+			],
+			[
+				"class",
+				"class_type"
+			],
+			[
+				"symb",
+				"symbol_table"
+			],
+			[
+				"this",
+				"this_increment"
+			],
+			[
+				"var",
+				"var_count"
+			],
+			[
+				"nv",
+				"n_class_var"
+			],
+			[
+				"whi",
+				"while\tWhile Loop"
+			],
+			[
+				"token",
+				"tokenizer"
+			],
+			[
+				"obje",
+				"OBJECTS_DEC"
+			],
+			[
+				"compia",
+				"CompilationEngine"
+			],
+			[
+				"ident",
+				"ident_type"
+			],
+			[
+				"ca",
+				"other_callee"
+			],
+			[
+				"term",
+				"term"
+			],
+			[
+				"cons",
+				"constant"
+			],
+			[
+				"write",
+				"write_push"
+			],
+			[
+				"inde",
+				"var_index"
+			],
+			[
+				"subr",
+				"subroutine_name"
+			],
+			[
+				"sub",
+				"subroutine_name"
+			],
+			[
+				"ter",
+				"term"
+			],
+			[
+				"while",
+				"WHILE_COUNTER"
+			],
+			[
+				"ifcounte",
+				"IF_COUNTER"
+			],
+			[
+				"label_el",
+				"label_false"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"po",
+				"write_pop"
+			],
+			[
+				"VMWriter",
+				"vm_writer"
+			],
+			[
+				"is",
+				"isdigit"
+			],
+			[
+				"label_e",
+				"label_end"
+			],
+			[
+				"crea",
+				"create_label"
+			],
+			[
+				"wr",
+				"vm_writer"
+			],
+			[
+				"subro",
+				"subroutine"
+			],
+			[
+				"su",
+				"subroutineDec"
+			],
+			[
+				"segm",
+				"segment_switcher"
+			],
+			[
+				"symbo",
+				"symbol_table"
+			],
+			[
+				"ki",
+				"kind_of"
+			],
+			[
+				"na",
+				"n_args_switcher"
+			],
+			[
+				"n",
+				"n_args"
+			],
+			[
+				"vmwri",
+				"vm_writer"
+			],
+			[
+				"V",
+				"VMWriter"
+			],
+			[
+				"func",
+				"func_name"
+			],
+			[
+				"cla",
+				"st_class_name"
+			],
+			[
+				"strin",
+				"string"
+			],
+			[
+				"index",
+				"index_lookup"
+			],
+			[
+				"ide",
+				"ident_kind"
+			],
+			[
+				"symboltab",
+				"symbol_table"
+			],
+			[
+				"idet",
+				"ident_kind"
+			],
+			[
+				"kin",
+				"kind_lookup"
+			],
+			[
+				"iden",
+				"ident_kind"
+			],
+			[
+				"sta",
+				"s_table"
+			],
+			[
+				"value",
+				"values"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"symbol",
+				"symbol_table"
+			],
+			[
+				"stat",
+				"statement_method"
+			],
+			[
+				"JA",
+				"JackTokenizer"
+			],
+			[
+				"file",
+				"input_file"
+			],
+			[
+				"fil",
+				"file_path"
+			],
+			[
+				"TOKEN",
+				"TOKENS"
+			],
+			[
+				"TOKE",
+				"TOKENS"
+			],
+			[
+				"TOK",
+				"JackTokenizer"
+			],
+			[
+				"tokent",
+				"TOKEN_TAGS"
+			],
+			[
+				"tok",
+				"tokenizer"
+			],
+			[
+				"state",
+				"statement_method"
+			],
+			[
+				"statem",
+				"statement_tag"
+			],
+			[
+				"add_to_",
+				"add_to_xml"
+			],
+			[
+				"out",
+				"OUTPUT_XML"
+			],
+			[
+				"toke",
+				"tokenizer"
+			],
+			[
+				"compile",
+				"compile_expression"
+			],
+			[
+				"compile_",
+				"compile_expression"
+			],
+			[
+				"compil",
+				"compile_statements"
+			],
+			[
+				"curren",
+				"current_token"
+			],
+			[
+				"comp",
+				"compile_do"
+			],
+			[
+				"let",
+				"compile_let"
+			],
+			[
+				"curen",
+				"current_token"
+			],
+			[
+				"subrou",
+				"compile_subroutineBody"
+			],
+			[
+				"para",
+				"compile_parameterList"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C_RUN.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C_RUN.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C_RUN.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 454.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/daos/MockDb/MockDao.ts",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/daos/Photo/PhotoDaoImpl.ts",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/routes/Photoes.ts",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/entities/Photo.ts",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/daos/MockDb/MockDb.json",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/daos/Photo/PhotoDao.ts",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/enteties/Photo.ts",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/shared/functions.ts",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/routes/index.ts",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/shared/constants.ts",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/app.ts",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/src/Server.ts",
+		"/E/Programming/learn-understand-nodejs/express-gen-ts/src/routes/index.ts",
+		"/E/Programming/learn-understand-nodejs/express-gen-ts/src/Server.ts",
+		"/E/Programming/learn-understand-nodejs/express-gen-ts/src/index.ts",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/package.json",
+		"/C/Users/Khaled Elnagar/Desktop/minly_assign/api_server/tsconfig.json",
+		"/E/Programming/learn-understand-nodejs/express-gen-ts/src/daos/MockDb/MockDao.mock.ts",
+		"/E/Programming/learn-understand-nodejs/express-gen-ts/src/daos/MockDb/MockDb.json",
+		"/E/Programming/learn-understand-nodejs/ts-starter/src/app.ts",
+		"/E/Programming/learn-understand-nodejs/express-gen-ts/src/entities/User.ts",
+		"/E/Programming/learn-understand-nodejs/ts-starter/package.json",
+		"/E/Programming/learn-understand-nodejs/ts-starter/app.ts",
+		"/E/Programming/learn-understand-nodejs/expresstest/app.js",
+		"/E/Programming/learn-understand-nodejs/ts-starter/tsconfig.json",
+		"/E/Programming/learn-understand-nodejs/expresstest/views/index.ejs",
+		"/E/Programming/learn-understand-nodejs/exp-gen-app/app.js",
+		"/E/Programming/learn-understand-nodejs/expresstest/views/error.ejs",
+		"/E/Programming/eventloop.js",
+		"/E/Programming/inovola.js",
+		"/E/Programming/learn-nodejs/http/stream-html.js",
+		"/E/Programming/learn-nodejs/http/routing.js",
+		"/E/Programming/learn-nodejs/exp-gen-app/node_modules/express/lib/response.js",
+		"/E/Programming/nodejs/expresstest/app.js",
+		"/C/Users/Khaled Elnagar/AppData/Local/Temp/Rar$DIa0.355/package.json",
+		"/E/Programming/nodejs/expresstest/views/index.ejs",
+		"/E/Programming/nodejs/expresstest/views/person.ejs.html",
+		"/E/Programming/nodejs/expresstest/public/style.css",
+		"/E/Programming/nodejs/http/routing.js",
+		"/E/Programming/nodejs/express/app.js",
+		"/E/Programming/daleelx/auth/forms.py",
+		"/E/Programming/daleelx/home/views.py",
+		"/E/Programming/daleelx/auth/views.py",
+		"/E/Programming/nodejs/http/stream-html.js",
+		"/E/Programming/nodejs/http/index.html",
+		"/E/Programming/nodejs/app.js",
+		"/E/Programming/nodejs/eventemitter-ex.js",
+		"/E/Programming/test files/app.js",
+		"/E/Programming/nodejs/fs-ex.js",
+		"/E/Programming/nodejs/callback-ex.js",
+		"/E/Programming/nodejs/greet/english.js",
+		"/E/Programming/nodejs/greet/spanish.js",
+		"/E/Programming/nodejs/buffer-ex.js",
+		"/E/Programming/nodejs/greetbig.txt",
+		"/E/Programming/nodejs/greet.txt",
+		"/E/Programming/nodejs/greet/callback-ex.js",
+		"/E/Programming/nodejs/require-ex.js",
+		"/E/Programming/nodejs/inherits-ex.js",
+		"/E/Programming/nodejs/greet/greeting.json",
+		"/E/Programming/nodejs/greet/index.js",
+		"/E/Programming/web_dev_test/test_js/app-weird_parts.js",
+		"/E/Programming/test files/test.html",
+		"/E/Programming/node-course",
+		"/E/Programming/test files/threads.py",
+		"/E/Programming/asyncio.py",
+		"/E/Programming/js30/js30.html",
+		"/E/Programming/reliance/RL/cron_jobs.py",
+		"/E/Programming/treego-dev/treego-web/src/Journal/scenes/journal.js",
+		"/E/Programming/treego-dev/treego-web/src/Journal/components/spread.js",
+		"/E/Programming/treego-dev/treego-web/src/Journal/components/short_article.js",
+		"/E/Programming/treego-dev/treego-web/src/Journal/components/poem.js",
+		"/E/Programming/python3.6venv/callerlookup/caller.py",
+		"/E/Programming/lxt.py",
+		"/E/Programming/python codes/LinkedLists.py",
+		"/E/Programming/polymorphism.py",
+		"/E/Programming/python codes/find.py",
+		"/E/Programming/python codes/anagram.py",
+		"/E/Programming/python codes/Algorithms.py",
+		"/E/Programming/g.html",
+		"/D/Courses/Lynda/Programming/Python/Python 3 Essential Training/Exercise Files/14 Containers/containers.py",
+		"/E/Programming/nand2tetris/jack-compiler/tokenizer.py",
+		"/E/Programming/nand2tetris/jack-compiler/vm_writer.py",
+		"/E/Programming/nand2tetris/jack-compiler/compilation_engine.py",
+		"/E/Programming/nand2tetris/jack-compiler/jack_compiler.py",
+		"/E/Programming/nand2tetris/jack-compiler/symbol_table.py",
+		"/D/Courses/Lynda/Programming/Python/Python 3 Essential Training/Exercise Files/02 Quick Start/oop3.py",
+		"/D/Courses/Lynda/Programming/Python/Python 3 Essential Training/Exercise Files/12 Classes/generator.py",
+		"/E/Programming/lines.txt",
+		"/C/Users/Khaled Elnagar/Desktop/hello.py",
+		"/D/Courses/Lynda/Programming/Python/Python 3 Essential Training/Exercise Files/Ex_Files_Python_3_EssT/Exercise Files/13 Strings/strings.py",
+		"/D/Courses/Lynda/Programming/Python/Python 3 Essential Training/Exercise Files/Ex_Files_Python_3_EssT/Exercise Files/12 Classes/classes.py",
+		"/E/Programming/test files/advanced_python.py",
+		"/E/Programming/python3.6venv/smartshortner/run.py",
+		"/E/Programming/python3.6venv/quiz/quiz.py",
+		"/E/Programming/get-pip.py",
+		"/E/Programming/python codes/Gradebook.py",
+		"/E/Programming/python codes/Maximum Number.py",
+		"/E/Programming/python codes/Raw input.py",
+		"/E/Programming/python codes/stringMod.py",
+		"/E/Programming/python codes/ss.py",
+		"/E/Programming/python codes/ski.py",
+		"/E/Programming/python codes/Send Text.py",
+		"/E/Programming/python codes/Replace string in TXT.py",
+		"/E/Programming/python codes/polysum-Nagar99.py",
+		"/E/Programming/python codes/Deck.py",
+		"/E/Programming/python codes/Queue.py",
+		"/E/Programming/6001x/bisection search.py",
+		"/E/Programming/cs212/poker.py",
+		"/E/Programming/python codes/Error.py",
+		"/E/Programming/python codes/seudo.py",
+		"/E/Programming/python codes/web_crawler.py",
+		"/E/Programming/test files/test.py",
+		"/E/Programming/python codes/MIT6.1x.py",
+		"/C/Users/Khaled Elnagar/Desktop/test.py",
+		"/E/Programming/treego-dev/treego/spread/models.py",
+		"/E/Programming/treego-dev/treego/treego/settings.py",
+		"/E/Programming/treego-dev/treego/spread/services.py",
+		"/E/Programming/treego-dev/treego/account/models.py",
+		"/E/Programming/treego-dev/treego/spread/static/spread/hh.css",
+		"/E/Programming/treego-dev/treego/treego/utils.py",
+		"/E/Programming/treego-dev/treego/venv/Lib/site-packages/django/http/response.py",
+		"/E/Programming/treego-dev/treego/spread/forms.py",
+		"/E/Programming/treego-dev/treego/venv/Lib/site-packages/django/core/wsgi.py",
+		"/E/Programming/treego-dev/treego/venv/Lib/site-packages/django/core/handlers/wsgi.py",
+		"/E/Programming/treego-dev/treego-sub.sublime-workspace",
+		"/D/Courses/Lynda/Programming/Python/Python 3 Essential Training/Exercise Files/Ex_Files_Python_3_EssT/Exercise Files/12 Classes/generator.py",
+		"/E/Programming/treego-dev/treego-sub.sublime-project",
+		"/E/Programming/treego-dev/treego/account/views.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 181.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "minly.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
