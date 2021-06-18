@@ -38,16 +38,6 @@ export async function addPhoto(req: Request, res: Response) {
         });
     }
 
-    // const filePath = req.file.path;
-    // const orgName = req.file.originalname;
-
-    // if (!isPhoto(orgName)) {
-    //      return res.status(BAD_REQUEST).json({
-    //         error: errorNotPhoto,
-    //     });   
-    // }
-
-    // const photoNewPath = await uploadPhoto(filePath, orgName);
     const photoNewPath = {path: req.file.filename};
     
     // save photo path to db and get id
